@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Fitpeak-Workspace-4hlshe.us-east-1.xata.sh/db/catalog",
+  "codegen": {
+    "output": "src/xata/dbs/catalog.ts"
+  }
+}
